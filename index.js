@@ -6,6 +6,17 @@ let students = [
       "gender": "male",
       "age": 39
     }
+    ,
+
+    {
+      "id": 5906021612101,
+      "name": "Poramin Bangkhom",
+      "username_github": "poramin7894",
+      "gender": "male",
+      "age": 21
+    }
+
+
   ]
 
   console.log(students);
