@@ -7,9 +7,9 @@ let students = [
       "age": 39
     },
     {
-      "id": 5906021611082,
-      "name": "thirapat sattabut",
-      "username_github": "nutop008",
+      "id": 5906021611104,
+      "name": "siwa chaochiangkhwang",
+      "username_github": "siwa1908",
       "gender": "male",
       "age": 21
     }
