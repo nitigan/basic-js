@@ -5,6 +5,13 @@ let students = [
       "username_github": "nitigan",
       "gender": "male",
       "age": 39
+    },
+    {
+      "id": 5906021613034,
+      "name": "Sarunyou Nakpunbud",
+      "username_github": "maxmodefly",
+      "gender": "male",
+      "age": 21
     }
   ]
 
